@@ -37,6 +37,8 @@ O Cheesecake é um projeto para representar o ensinamento de responsividade.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/M00xG9pWsQNikKYpFsv2JJ/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=113-93&mode=design&t=GzOpxkfPAdTJVmX6-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Projeto04_Cheesecake/)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
